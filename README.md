@@ -1,2 +1,19 @@
-# InfoductivaCursoPython
-Curso de Python Infoductiva
+# Curso de Python Infoductiva
+¡Bienvenido al Curso de Python de Infoductiva!
+En este emocionante viaje, partirás desde los conceptos básicos de la programación y te convertirás en un experto desarrollador. Comenzaremos desde cero, centrándonos en Python como nuestro punto de partida.
+
+## Contenido del Curso
+- [Lista de Reproducción del Curso en YouTube](https://www.youtube.com/playlist?list=PL_yx33PLMxWEKR_3nVKOosNxkdi0zA1pb)
+- [Canal de YouTube: Infoductiva 2](https://www.youtube.com/c/INFODUCTIVA2)
+
+En nuestro [canal de YouTube Infoductiva 2](https://www.youtube.com/c/INFODUCTIVA2), encontrarás una cuidadosa selección de tutoriales diseñados para que cualquier persona, sin importar su nivel de experiencia previa, pueda aprender a programar de manera efectiva. A medida que avanzamos en el curso, exploraremos temas avanzados y herramientas esenciales que te ayudarán a construir aplicaciones web, rastrear datos en la web y crear proyectos innovadores.
+
+## Ejemplos y Recursos
+Todos los ejemplos relacionados con el curso estarán disponibles en este repositorio de GitHub. Puedes explorar el código fuente, descargar ejercicios y acceder a recursos adicionales para fortalecer tus habilidades en Python.
+
+¡Únete a nosotros en este emocionante viaje de aprendizaje de Python!
+Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el vídeo relacionado a través de nuestro canal de YouTube.
+
+¡Diviértete aprendiendo y programando en Python!
+
+

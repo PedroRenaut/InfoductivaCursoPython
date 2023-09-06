@@ -16,4 +16,8 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 
 ¡Diviértete aprendiendo y programando en Python!
 
-
+## Vídeos y Cuestionarios de Auto Evaluación
+| Vídeo | Evaluación |
+| --- | --- |
+| [Hoy Empezamos el Curso Practico de Python 🐍](https://youtu.be/FhWzuJs9Qjw) | [Cuestionario 1](https://forms.gle/TwTPPucHssdiQKmH7) |
+| Tipos de Datos en Python 🐍 | Cuestionario 2 |

@@ -20,4 +20,4 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 | Vídeo | Evaluación |
 | --- | --- |
 | [Hoy Empezamos el Curso Practico de Python 🐍](https://youtu.be/FhWzuJs9Qjw) | [Cuestionario 1](https://forms.gle/TwTPPucHssdiQKmH7) |
-| Tipos de Datos en Python 🐍 | Cuestionario 2 |
+| [Tipos de Datos en Python 🐍](https://youtu.be/JGa72bnXjnY) | [Cuestionario 2](https://forms.gle/FvYLtn59qL1oFjNi7) |

@@ -27,4 +27,12 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 Tipos: (C) Código fuente - (E) Ejemplo - (P) Práctica o Ejercicio
 | Nombre | Descripción | Tipo |
 | --- | --- | --- |
-| [calcula1.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/codigos/calcula1.py) | Calculadora básica que opera (+-*/) con 2 números. | C |
+| [calcula1.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/codigos/calcula1.py) | Calculadora básica que opera (+-*/) con 2 números | C |
+| [suma.py]() | Suma 2 números | E |
+| [promedio.py]() | Calcula el promedio de 3 números | E |
+| [temCaF.py]() | Convierte temperatura de Celsius a Fahrenheit | E |
+| [areaCir.py]() | Calcula el área del circulo | E |
+| [areaC.py]() | Calcula el área del cuadrado o rectángulo | E |
+| [areaT.py]() | Calcula el área del triángulo | E |
+| [longCir.py]() | Calcula la longitud del circulo | E |
+| [longitud.py]() | Calcula la longitud de una cadena de caracteres | E |

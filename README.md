@@ -28,11 +28,11 @@ Tipos: (C) Código fuente - (E) Ejemplo - (P) Práctica o Ejercicio
 | Nombre | Descripción | Tipo |
 | --- | --- | --- |
 | [calcula1.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/codigos/calcula1.py) | Calculadora básica que opera (+-*/) con 2 números | C |
-| [suma.py]() | Suma 2 números | E |
-| [promedio.py]() | Calcula el promedio de 3 números | E |
-| [temCaF.py]() | Convierte temperatura de Celsius a Fahrenheit | E |
-| [areaCir.py]() | Calcula el área del circulo | E |
-| [areaC.py]() | Calcula el área del cuadrado o rectángulo | E |
-| [areaT.py]() | Calcula el área del triángulo | E |
-| [longCir.py]() | Calcula la longitud del circulo | E |
-| [longitud.py]() | Calcula la longitud de una cadena de caracteres | E |
+| [suma.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/suma.py) | Suma 2 números | E |
+| [promedio.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/promedio.py) | Calcula el promedio de 3 números | E |
+| [temCaF.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/tempCaF.py) | Convierte temperatura de Celsius a Fahrenheit | E |
+| [areaCir.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/areaCir.py) | Calcula el área del circulo | E |
+| [areaC.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/areaC.py) | Calcula el área del cuadrado o rectángulo | E |
+| [areaT.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/areaT.py) | Calcula el área del triángulo | E |
+| [longCir.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/longCir.py) | Calcula la longitud del circulo | E |
+| [longitud.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/longitud.py) | Calcula la longitud de una cadena de caracteres | E |

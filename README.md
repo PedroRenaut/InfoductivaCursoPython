@@ -27,4 +27,4 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 Tipos: (C) Código fuente - (E) Ejemplo - (P) Práctica o Ejercicio
 | Nombre | Descripción | Tipo |
 | --- | --- | --- |
-| calcula1.py | Calculadora básica que opera (+-*/) con 2 números. | C |
+| [calcula1.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/codigos/calcula1.py) | Calculadora básica que opera (+-*/) con 2 números. | C |

@@ -36,6 +36,6 @@ Tipos: (C) Código fuente - (E) Ejemplo - (P) Práctica o Ejercicio
 | [areaT.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/areaT.py) | Calcula el área del triángulo | E |
 | [longCir.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/longCir.py) | Calcula la longitud del circulo | E |
 | [longitud.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/longitud.py) | Calcula la longitud de una cadena de caracteres | E |
-| [practica 01.md]() | Potencia | P |
-| [practica 02.md]() | Descuento en una Compra | P |
-| [practica 03.md]() | Interés Compuesto | P |
+| [practica 01.md](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/practicas/practica%2001.md) | Potencia | P |
+| [practica 02.md](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/practicas/practica%2002.md) | Descuento en una Compra | P |
+| [practica 03.md](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/practicas/practica%2003.md) | Interés Compuesto | P |

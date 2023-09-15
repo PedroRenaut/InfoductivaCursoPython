@@ -22,6 +22,7 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 | [Hoy Empezamos el Curso Practico de Python 🐍](https://youtu.be/FhWzuJs9Qjw) | [Cuestionario 1](https://forms.gle/TwTPPucHssdiQKmH7) |
 | [Tipos de Datos en Python 🐍](https://youtu.be/JGa72bnXjnY) | [Cuestionario 2](https://forms.gle/FvYLtn59qL1oFjNi7) |
 | [Números en Python 🐍](https://youtu.be/abGW9J9gtsE) | [Cuestionario 3](https://forms.gle/SH4U88EDsHNw1GVa8) |
+| [Strings en Python 🐍](https://youtu.be/ZAXkKBHs97s) | Cuestionario 3 en construcción |
 
 ## Códigos fuente, Ejemplos y Prácticas
 Tipos: (C) Código fuente - (E) Ejemplo - (P) Práctica o Ejercicio

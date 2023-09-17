@@ -22,7 +22,7 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 | [Hoy Empezamos el Curso Practico de Python 🐍](https://youtu.be/FhWzuJs9Qjw) | [Cuestionario 1](https://forms.gle/TwTPPucHssdiQKmH7) |
 | [Tipos de Datos en Python 🐍](https://youtu.be/JGa72bnXjnY) | [Cuestionario 2](https://forms.gle/FvYLtn59qL1oFjNi7) |
 | [Números en Python 🐍](https://youtu.be/abGW9J9gtsE) | [Cuestionario 3](https://forms.gle/SH4U88EDsHNw1GVa8) |
-| [Strings en Python 🐍](https://youtu.be/ZAXkKBHs97s) | [Cuestionario 4] (https://forms.gle/rstNSTcQrLS2hHK26) |
+| [Strings en Python 🐍](https://youtu.be/ZAXkKBHs97s) | [Cuestionario 4](https://forms.gle/rstNSTcQrLS2hHK26) |
 
 ## Códigos fuente, Ejemplos y Prácticas
 Tipos: (C) Código fuente - (E) Ejemplo - (P) Práctica o Ejercicio
@@ -40,3 +40,7 @@ Tipos: (C) Código fuente - (E) Ejemplo - (P) Práctica o Ejercicio
 | [practica 01.md](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/practicas/practica%2001.md) | Potencia | P |
 | [practica 02.md](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/practicas/practica%2002.md) | Descuento en una Compra | P |
 | [practica 03.md](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/practicas/practica%2003.md) | Interés Compuesto | P |
+| dni1.py | Letra DNI/CIF/NIE versión 1 | E |
+| dni2.py | Letra DNI/CIF/NIE versión 2 | E |
+| dni3.py | Letra DNI/CIF/NIE versión 3 | E |
+| letraDNI.py | Letra DNI/CIF/NIE | C |

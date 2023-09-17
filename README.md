@@ -40,3 +40,7 @@ Tipos: (C) Código fuente - (E) Ejemplo - (P) Práctica o Ejercicio
 | [practica 01.md](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/practicas/practica%2001.md) | Potencia | P |
 | [practica 02.md](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/practicas/practica%2002.md) | Descuento en una Compra | P |
 | [practica 03.md](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/practicas/practica%2003.md) | Interés Compuesto | P |
+| dni1.py | Letra DNI/CIF/NIE versión 1 | E |
+| dni2.py | Letra DNI/CIF/NIE versión 2 | E |
+| dni3.py | Letra DNI/CIF/NIE versión 3 | E |
+| letraDNI.py | Letra DNI/CIF/NIE | C |

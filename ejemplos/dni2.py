@@ -12,4 +12,3 @@ letra = letras_dni[dni_numero % 23]
 
 # Imprime el número completo con la letra
 print(f'Tu número completo es: {dni_numero}{letra}')
-

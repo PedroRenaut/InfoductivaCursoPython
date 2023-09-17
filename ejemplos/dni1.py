@@ -13,3 +13,4 @@ letra = letras_dni[resto]
 
 # Imprime el número completo con la letra
 print('Tu número completo es: ' + str(dni_numero) + letra)
+

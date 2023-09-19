@@ -24,25 +24,27 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 | [Números en Python 🐍](https://youtu.be/abGW9J9gtsE) | [Cuestionario 3](https://forms.gle/SH4U88EDsHNw1GVa8) |
 | [Strings en Python 🐍](https://youtu.be/ZAXkKBHs97s) | [Cuestionario 4](https://forms.gle/rstNSTcQrLS2hHK26) |
 | [DNI Python 🐍](https://youtu.be/QocvehgU5qU) | Primera práctica útil con lo que llevamos visto en Python hasta el momento. |
-| Condiciones en Python | Cuestionario 5 |
-| Bucles en Python 🐍 | Cuestionario 6 |
-| Listas en Python 🐍 | Cuestionario 7 |
-| Tuplas en Python 🐍 | Cuestionario 8 |
-| Diccionarios en Python 🐍 | Cuestionario 9 |
-| Conjuntos en Python 🐍 | Cuestionario 10 |
-| Ficheros en Python 🐍 | Cuestionario 11 |
-| Funciones en Python 🐍 | Cuestionario 12 |
-| Objetos y Clases en Python 🐍 | Cuestionario 13 |
-| Excepciones en Python 🐍 | Cuestionario 14 |
-| Módulos en Python 🐍 | Cuestionario 15 |
-| Módulo string en Python 🐍 | Cuestionario 16 |
-| Módulo numpy en Python 🐍 | Cuestionario 17 |
-| Módulo pandas en Python 🐍 | Cuestionario 18 |
-| Módulo matplotlib en Python 🐍 | Cuestionario 19 |
-| Módulo jupyter en Python 🐍 | Cuestionario 20 |
-| Módulo requests en Python 🐍 | Cuestionario 21 |
-| Módulo beautifulsoup en Python 🐍 | Cuestionario 22 |
-| Módulo selenium en Python 🐍 | Cuestionario 23 |
+| Condiciones if en Python 🐍 | Cuestionario 5 |
+| Condiciones match case en Python 🐍 | Cuestionario 6 |
+| Bucles while en Python 🐍 | Cuestionario 7 |
+| Bucles for en Python 🐍 | Cuestionario 8 |
+| Listas en Python 🐍 | Cuestionario |
+| Tuplas en Python 🐍 | Cuestionario |
+| Diccionarios en Python 🐍 | Cuestionario |
+| Conjuntos en Python 🐍 | Cuestionario |
+| Ficheros en Python 🐍 | Cuestionario |
+| Funciones en Python 🐍 | Cuestionario |
+| Objetos y Clases en Python 🐍 | Cuestionario |
+| Excepciones en Python 🐍 | Cuestionario |
+| Módulos en Python 🐍 | Cuestionario |
+| Módulo string en Python 🐍 | Cuestionario |
+| Módulo numpy en Python 🐍 | Cuestionario |
+| Módulo pandas en Python 🐍 | Cuestionario |
+| Módulo matplotlib en Python 🐍 | Cuestionario |
+| Módulo jupyter en Python 🐍 | Cuestionario |
+| Módulo requests en Python 🐍 | Cuestionario |
+| Módulo beautifulsoup en Python 🐍 | Cuestionario |
+| Módulo selenium en Python 🐍 | Cuestionario |
 
 ## Códigos fuente, Ejemplos y Prácticas
 Tipos: (C) Código fuente - (E) Ejemplo - (P) Práctica o Ejercicio

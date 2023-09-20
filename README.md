@@ -24,8 +24,8 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 | [Números en Python 🐍](https://youtu.be/abGW9J9gtsE) | [Cuestionario 3](https://forms.gle/SH4U88EDsHNw1GVa8) |
 | [Strings en Python 🐍](https://youtu.be/ZAXkKBHs97s) | [Cuestionario 4](https://forms.gle/rstNSTcQrLS2hHK26) |
 | [DNI Python 🐍](https://youtu.be/QocvehgU5qU) | Primera práctica útil con lo que llevamos visto en Python hasta el momento. |
-| [Condiciones if en Python 🐍](https://youtu.be/OkHOclEBoQo) | Cuestionario 5 🚧En construcción🏗️ |
-| Condiciones match case en Python 🐍 | Cuestionario 6 |
+| [Condiciones if en Python 🐍](https://youtu.be/OkHOclEBoQo) | [Cuestionario 5](https://forms.gle/QgHiwVz65cLHAyyt8) |
+| 🚧En construcción🏗️ Condiciones match case en Python 🐍 | Cuestionario 6 |
 | Bucles while en Python 🐍 | Cuestionario 7 |
 | Bucles for en Python 🐍 | Cuestionario 8 |
 | Listas en Python 🐍 | Cuestionario |

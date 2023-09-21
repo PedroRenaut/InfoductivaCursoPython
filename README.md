@@ -25,6 +25,7 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 | [Strings en Python 🐍](https://youtu.be/ZAXkKBHs97s) | [Cuestionario 4](https://forms.gle/rstNSTcQrLS2hHK26) |
 | [DNI Python 🐍](https://youtu.be/QocvehgU5qU) | Primera práctica útil con lo que llevamos visto en Python hasta el momento. |
 | [Condiciones if en Python 🐍](https://youtu.be/OkHOclEBoQo) | [Cuestionario 5](https://forms.gle/QgHiwVz65cLHAyyt8) |
+| [Ejemplos if Python 🐍](https://youtu.be/Ffp2U7NiaxQ) | Ejemplos de estructuras condicionales if Python. |
 | 🚧En construcción🏗️ Condiciones match case en Python 🐍 | Cuestionario 6 |
 | Bucles while en Python 🐍 | Cuestionario 7 |
 | Bucles for en Python 🐍 | Cuestionario 8 |
@@ -45,24 +46,8 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 | Módulo requests en Python 🐍 | Cuestionario |
 | Módulo beautifulsoup en Python 🐍 | Cuestionario |
 | Módulo selenium en Python 🐍 | Cuestionario |
+| ... y mucho más en Python 🐍 | ... continuará ... |
 
 ## Códigos fuente, Ejemplos y Prácticas
-Tipos: (C) Código fuente - (E) Ejemplo - (P) Práctica o Ejercicio
-| Nombre | Descripción | Tipo |
-| --- | --- | --- |
-| [calcula1.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/codigos/calcula1.py) | Calculadora básica que opera (+-*/) con 2 números | C |
-| [suma.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/suma.py) | Suma 2 números | E |
-| [promedio.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/promedio.py) | Calcula el promedio de 3 números | E |
-| [temCaF.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/tempCaF.py) | Convierte temperatura de Celsius a Fahrenheit | E |
-| [areaCir.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/areaCir.py) | Calcula el área del circulo | E |
-| [areaC.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/areaC.py) | Calcula el área del cuadrado o rectángulo | E |
-| [areaT.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/areaT.py) | Calcula el área del triángulo | E |
-| [longCir.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/longCir.py) | Calcula la longitud del circulo | E |
-| [longitud.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/longitud.py) | Calcula la longitud de una cadena de caracteres | E |
-| [practica 01.md](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/practicas/practica%2001.md) | Potencia | P |
-| [practica 02.md](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/practicas/practica%2002.md) | Descuento en una Compra | P |
-| [practica 03.md](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/practicas/practica%2003.md) | Interés Compuesto | P |
-| [dni1.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/dni1.py) | Letra DNI/CIF/NIE versión 1 | E |
-| [dni2.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/dni2.py) | Letra DNI/CIF/NIE versión 2 | E |
-| [dni3.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/ejemplos/dni3.py) | Letra DNI/CIF/NIE versión 3 | E |
-| [letraDNI.py](https://github.com/PedroRenaut/InfoductivaCursoPython/blob/main/codigos/letraDNI.py) | Letra DNI/CIF/NIE | C |
+Los ejemplos, códigos fuente y prácticas del curso están en sus respectivos directorios.
+

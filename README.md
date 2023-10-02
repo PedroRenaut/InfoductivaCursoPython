@@ -26,9 +26,9 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 | [DNI Python 🐍](https://youtu.be/QocvehgU5qU) | Primera práctica útil con lo que llevamos visto en Python hasta el momento. |
 | [Condiciones if en Python 🐍](https://youtu.be/OkHOclEBoQo) | [Cuestionario 5](https://forms.gle/QgHiwVz65cLHAyyt8) |
 | [Ejemplos if Python 🐍](https://youtu.be/Ffp2U7NiaxQ) | Ejemplos de estructuras condicionales if Python. |
-| [Match-Case en Python 🐍](https://youtu.be/ltNMptHPnyc) | Cuestionario 6 🚧En construcción🏗️  |
-| Bucle while en Python 🐍 | Cuestionario 7 |
-| Bucle for en Python 🐍 | Cuestionario 8 |
+| [Match-Case en Python 🐍](https://youtu.be/ltNMptHPnyc) | Estructura condicional match-case  |
+| Bucle while en Python 🐍 | Sentencia de repetición while |
+| 🚧En construcción🏗️ Bucle for en Python 🐍 | Sentencia de repetición for |
 | Listas en Python 🐍 | Cuestionario |
 | Tuplas en Python 🐍 | Cuestionario |
 | Diccionarios en Python 🐍 | Cuestionario |
@@ -42,10 +42,14 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 | Módulo numpy en Python 🐍 | Cuestionario |
 | Módulo pandas en Python 🐍 | Cuestionario |
 | Módulo matplotlib en Python 🐍 | Cuestionario |
+| Módulo seaborn en Python 🐍 | Cuestionario |
+| Módulo bokeh en Python 🐍 | Cuestionario |
+| Módulo scipy en Python 🐍 | Cuestionario |
 | Módulo jupyter en Python 🐍 | Cuestionario |
 | Módulo requests en Python 🐍 | Cuestionario |
 | Módulo beautifulsoup en Python 🐍 | Cuestionario |
 | Módulo selenium en Python 🐍 | Cuestionario |
+| Módulo scrapy en Python 🐍 | Cuestionario |
 | ... y mucho más en Python 🐍 | ... continuará ... |
 
 ## Códigos fuente, Ejemplos y Prácticas

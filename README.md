@@ -27,7 +27,7 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 | [Condiciones if en Python 🐍](https://youtu.be/OkHOclEBoQo) | [Cuestionario 5](https://forms.gle/QgHiwVz65cLHAyyt8) |
 | [Ejemplos if Python 🐍](https://youtu.be/Ffp2U7NiaxQ) | Ejemplos de estructuras condicionales if Python. |
 | [Match-Case en Python 🐍](https://youtu.be/ltNMptHPnyc) | Estructura condicional match-case  |
-| [Bucle while en Python 🐍(https://youtu.be/ANpbuERigGU)] | Sentencia de repetición while |
+| [Bucle while en Python 🐍](https://youtu.be/ANpbuERigGU) | Sentencia de repetición while |
 | 🚧En construcción🏗️ Bucle for en Python 🐍 | Sentencia de repetición for |
 | Listas en Python 🐍 | Cuestionario |
 | Tuplas en Python 🐍 | Cuestionario |

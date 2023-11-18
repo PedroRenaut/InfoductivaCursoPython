@@ -30,7 +30,7 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 | [Bucle while en Python 🐍](https://youtu.be/ANpbuERigGU) | Sentencia de repetición while |
 | [Bucle for en Python 🐍](https://youtu.be/ZrCT_Z3eG_Q) | Sentencia de repetición for |
 | Listas en Python 🐍 | Estructura de datos list en Python |
-| Listas de Listas Python 🐍 | Listas de listas en Python y argumentos en la ejecución de un script |
+| 🚧En construcción🏗️ Listas de Listas Python 🐍 | Listas de listas en Python y argumentos en la ejecución de un script |
 | 🚧En construcción🏗️ Tuplas en Python 🐍 |  |
 | Diccionarios en Python 🐍 |  |
 | Conjuntos en Python 🐍 |  |

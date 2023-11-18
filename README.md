@@ -29,7 +29,7 @@ Si tienes preguntas o necesitas ayuda, no dudes en crear un comentario en el ví
 | [Match-Case en Python 🐍](https://youtu.be/ltNMptHPnyc) | Estructura condicional match-case  |
 | [Bucle while en Python 🐍](https://youtu.be/ANpbuERigGU) | Sentencia de repetición while |
 | [Bucle for en Python 🐍](https://youtu.be/ZrCT_Z3eG_Q) | Sentencia de repetición for |
-| Listas en Python 🐍 | Estructura de datos list en Python |
+| [Listas en Python 🐍](https://youtu.be/rgocii34iTs) | Estructura de datos list en Python |
 | 🚧En construcción🏗️ Listas de Listas Python 🐍 | Listas de listas en Python y argumentos en la ejecución de un script |
 | 🚧En construcción🏗️ Tuplas en Python 🐍 |  |
 | Diccionarios en Python 🐍 |  |
